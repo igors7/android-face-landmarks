@@ -12,7 +12,7 @@ set(CMAKE_VERBOSE_MAKEFILE on)
 set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -fexceptions -std=c++11")
 
 # Path to project: REPLACE WITH YOUR PATH!
-set(PROJECT_PATH E:/Luca/Progetti/Android/FaceLandmarks)
+set(PROJECT_PATH C:\Users\User\AndroidStudioProjects\android-face-landmarks)
 
 # Configure import libs: MAKE SURE TO HAVE A 'cppLibs' DIRECTORY"
 set(LIB_DIR ${CMAKE_SOURCE_DIR}/src/main/cppLibs)
